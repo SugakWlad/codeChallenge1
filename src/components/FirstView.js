@@ -66,5 +66,3 @@ export default class FirstView extends React.Component{
         )
     }
 }
-
-
